@@ -8,8 +8,7 @@
   :author "Marek Kochanowicz"
   :depends-on ( :iterate
                 :vellum
-                :cl-postgres
-                :s-sql
+                :mcclim
                 :documentation-utils-extensions)
   :serial T
   :pathname "src"
