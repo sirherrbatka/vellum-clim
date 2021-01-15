@@ -2,5 +2,5 @@
 
 
 (defpackage #:vellum-clim
-  (:use #:cl-user)
+  (:use #:cl)
   (:export))
